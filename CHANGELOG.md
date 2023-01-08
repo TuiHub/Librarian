@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.4](https://github.com/TuiHub/Librarian/compare/v0.0.3...v0.0.4) (2023-01-08)
+
+
+### Features
+
+* **gebura:** impl CreateAppPackage UpdateAppPackage ListAppPackage BindAppPackage ReportAppPackage ([4258ee5](https://github.com/TuiHub/Librarian/commit/4258ee5a76f8301f62798e92733febd9395693f0))
+
+
+### Bug Fixes
+
+* **sephirah:** set right vertex type ([27a834f](https://github.com/TuiHub/Librarian/commit/27a834fac35e035ed86aa28c2c49fc507e18803e))
+
 ## [0.0.3](https://github.com/TuiHub/Librarian/compare/v0.0.2...v0.0.3) (2022-11-19)
 
 
